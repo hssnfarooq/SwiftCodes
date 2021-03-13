@@ -1,0 +1,32 @@
+
+    html {
+        font-size: 45%;
+    }
+
+    .top-btn-links {
+        padding: 1rem 0px 1rem;
+        margin-bottom: 0.5rem;
+    }
+    .top-btn-links a {
+        width: 25%;
+    }
+
+    .container {
+        max-width: 80%;
+        margin: 0 auto; }
+        
+        .heading-secondary {
+            font-size: 2.5rem;
+        }
+
+        .country--card {
+            width: 40%;
+        }
+
+      .text-secondary {
+          font-size: 2rem;
+      }
+
+      .heading-primary {
+          line-height: 1;
+      }
